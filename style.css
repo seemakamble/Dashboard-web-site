@@ -1,0 +1,68 @@
+
+body {
+    color:  wheat;
+}
+p  {
+    margin: 0;
+}
+.header {
+    background-color: skyblue;
+    padding: 20px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.allpages {
+    background-image: url("https://wallpapers.com/images/featured/dark-gradient-6bly12umg2d4psr2.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+   padding-bottom: 10px;
+}
+
+.footer {
+    background-color: navy;
+    color: wheat;
+    text-align: left;
+    padding: 10px;
+    padding-bottom: 20px ;
+}
+
+
+.homepage {
+    color: wheat;
+}
+
+/* .states {
+    background-color: navy;
+} */
+
+.divpeople {
+    padding:10px;
+}
+/* p.pcontent {
+    color: black;
+} */
+
+.aboutus  p {
+padding: 20px;
+padding-bottom: 20px;
+}
+
+.aboutupage {
+    color: wheat;
+    padding: 40px;
+}
+.projects, .projectspage {
+    padding-bottom: 20px;
+}
+.client {
+text-align: left;
+padding-left: 20px ;
+}
